@@ -1,4 +1,3 @@
-print('hi Dennis ')
 import random
 
 print("Welcome to Rock-Paper-Scissors!")
