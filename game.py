@@ -1,1 +1,1 @@
-print('hi ini alan')
+print('hi ini alif')
